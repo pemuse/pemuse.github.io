@@ -429,8 +429,8 @@ $(function() {
 							//str +'Haha, make a joke',
 							str + data.from,
 						  ],
-						  typeSpeed: 90,
-						  startDelay: 500,
+						  typeSpeed: 100,
+						  startDelay: 400,
 						  //backDelay: 500,
 						  //backSpeed: 50,//回退速度
 						  //loop: true,
